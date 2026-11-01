@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kfcbathroom25/danganmake-spotselectiondr2/releases/latest"><img src="https://img.shields.io/github/v/release/kfcbathroom25/danganmake-spotselectiondr2?style=for-the-badge&label=latest&color=ffc21a&labelColor=2b0710" alt="Latest release"></a>
-  <a href="https://github.com/kfcbathroom25/danganmake-spotselectiondr2/releases"><img src="https://img.shields.io/github/downloads/kfcbathroom25/danganmake-spotselectiondr2/total?style=for-the-badge&color=ffc21a&labelColor=2b0710" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/made%20for-Danganmake-ffc21a?style=for-the-badge&labelColor=2b0710" alt="Made for Danganmake">
-  <img src="https://img.shields.io/badge/controller-supported-ffc21a?style=for-the-badge&labelColor=2b0710" alt="Controller supported">
+  <a href="https://github.com/kfcbathroom25/danganmake-spotselectiondr2/issues/new?template=bug_report.yml"><img src="docs/btn_bugs.png" alt="Report bugs" width="250"></a>
+  <a href="https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source"><img src="docs/btn_more.png" alt="More minigames" width="250"></a>
+  <a href="https://freddysdarkon.itch.io/danganmake"><img src="docs/btn_danganmake.png" alt="Danganmake - get it on itch.io" width="250"></a>
 </p>
 
 <p align="center">
@@ -47,6 +46,8 @@
 </table>
 
 ## 📥 How to install
+
+Don't have Danganmake yet? **[Get it on itch.io](https://freddysdarkon.itch.io/danganmake)**.
 
 1. Go to the **[Releases page](https://github.com/kfcbathroom25/danganmake-spotselectiondr2/releases/latest)** and download the latest `.zip`.
 2. Unzip it.
@@ -102,6 +103,19 @@ Insert the minigame in Danganmake's editor and its settings open:
 3. Choose **Wrong spot** and drag boxes over the things that look suspicious but aren't (yellow).
 4. Press **Edit dialogue** next to a wrong spot to write what's said when someone picks it.
 5. Press **Try it** to play it, then **Done**.
+
+## 🐞 Found a bug?
+
+**[Report it here](https://github.com/kfcbathroom25/danganmake-spotselectiondr2/issues/new?template=bug_report.yml)**. A short form asks what happened and how to make it happen again. Screenshots or a video help a lot.
+
+## 🎲 More minigames
+
+| Minigame | |
+| --- | --- |
+| **[Closing Argument V3](https://github.com/kfcbathroom25/danganmake-closingargumentv3)** | V3's comic-book Closing Argument: rebuild the case one panel at a time. |
+| **[Closing Argument DR2](https://github.com/kfcbathroom25/danganmake-closingargumentdr2)** | DR2's manga Closing Argument: drop the missing panels into the pages. |
+
+**[See every minigame by kfcbathroom](https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source)**
 
 ## 💬 Credits
 
