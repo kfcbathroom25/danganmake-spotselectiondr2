@@ -1,0 +1,53 @@
+name: Report a bug
+description: Something in Spot Selection DR2 isn't working right.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting! The more detail you give, the faster it can be fixed.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect to happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How do I make it happen?
+      description: The steps to get the bug, one per line.
+      placeholder: |
+        1. Open the minigame editor
+        2. Press ...
+        3. The bug happens
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - Playing the minigame
+        - The minigame's editor
+        - Both
+    validations:
+      required: true
+  - type: dropdown
+    id: input
+    attributes:
+      label: What were you using?
+      options:
+        - Keyboard and mouse
+        - Controller
+  - type: input
+    id: version
+    attributes:
+      label: Minigame version and Danganmake version
+      placeholder: "e.g. minigame v1.2, Danganmake 1.0"
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or video
+      description: Drag files in here if you have any.
